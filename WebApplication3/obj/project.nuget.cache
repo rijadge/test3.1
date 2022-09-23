@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+uphLUofQh/VY+s5bwOY7+V+nz6UMz+J6GOfoLEj+MsWsintPALB4DtXZbnOp4c6URonQbYTUZgFbyc0ZUEABw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rijad.gerguri\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rijad.gerguri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
